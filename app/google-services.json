@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "153209748604",
+    "firebase_url": "https://fir-demo-d77c7.firebaseio.com",
+    "project_id": "fir-demo-d77c7",
+    "storage_bucket": "fir-demo-d77c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153209748604:android:7c3f22b9dcb53c1bff9df9",
+        "android_client_info": {
+          "package_name": "com.polinema.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153209748604-nqo59vho9fcg9dff1n3rbbpk1rsj1njv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8qJzB2KKPy4T-xwT1aiYwGbpkQlpLjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153209748604-nqo59vho9fcg9dff1n3rbbpk1rsj1njv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
